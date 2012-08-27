@@ -63,7 +63,7 @@ for (int x=1; x<=6 ;x++) { //shadow of A
   }
 
 
-save("font08.jpg");
+save("font08.png");
 
 
 
